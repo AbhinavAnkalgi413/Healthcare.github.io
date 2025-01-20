@@ -1,6 +1,6 @@
 # Welcome to My Project
 
-![Patient Symptom Analysis and Self diagnosis](Health.care.png)
+![Patient Symptom Analysis and Self diagnosis](Care.png)
 
 
 ## Patient Symptom Analysis and Self diagnosis Project 
